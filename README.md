@@ -1,5 +1,11 @@
 ## hi
 
+## Portfolio
+
+🌐 **Live Portfolio:** [Visit my website](https://your-portfolio-link-here)
+
+A collection of my projects, experiments, and web apps—all in one place.
+
 <!--
 **trishadar/trishadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
