@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-🌐 **Live Portfolio:** [Visit my website](https://your-portfolio-link-here)
+🌐 **Live Portfolio:** [Visit my website](https://trishadar.github.io/Portfolio/)
 
 A collection of my projects, experiments, and web apps—all in one place.
 
