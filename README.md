@@ -1,10 +1,12 @@
 ## hi
 
+👋 Hi! I’m a student developer passionate about building interactive apps, games, and websites. Experienced in Java, Python, HTML/CSS/JS, and Godot game development.
+
 ## Portfolio
 
 🌐 **Live Portfolio:** [Visit my website](https://trishadar.github.io/Portfolio/)
 
-A collection of my projects, experiments, and web apps—all in one place.
+A collection of my projects, experiments, and web apps all in one place.
 
 <!--
 **trishadar/trishadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
