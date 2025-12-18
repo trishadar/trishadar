@@ -1,6 +1,6 @@
-## hi
+## hi!
 
-👋 Hi! I’m a student developer passionate about building interactive apps, games, and websites. Experienced in Java, Python, HTML/CSS/JS, and Godot game development.
+I’m a student developer passionate about building interactive apps, games, and websites. Experienced in Java, Python, HTML/CSS/JS, and Godot game development.
 
 ## Portfolio
 
