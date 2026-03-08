@@ -1,6 +1,6 @@
 ## hi!
 
-I’m a student developer passionate about building interactive apps, games, and websites. Experienced in Java, Python, HTML/CSS/JS, and Godot game development.
+I'm a student developer pursuing a BS in Computer Science at the University of Texas at Austin, driven by a belief that data science, AI, and machine learning can turn raw information into real decisions. I build projects that don't just demo well — they think, adapt, and solve.
 
 ## Portfolio
 
