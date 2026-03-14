@@ -4,7 +4,7 @@ I'm a student developer pursuing a BS in Computer Science at the University of T
 
 ## Portfolio
 
-🌐 **Live Portfolio:** [Visit my website](https://trishadar.github.io/Portfolio/)
+🌐 **Live Portfolio:** [Visit my website](https://trishadar.github.io/trishaDarurePortfolio/)
 
 A collection of my projects, experiments, and web apps all in one place.
 
